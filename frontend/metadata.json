@@ -1,0 +1,9 @@
+
+{
+  "name": "Civic Connect - Smart Civic System",
+  "description": "A comprehensive civic reporting and administration platform for citizens and officials, featuring issue tracking, staff management, and system analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
